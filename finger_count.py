@@ -1,8 +1,4 @@
 
-"""
-Created on Thu Sep 12 11:45:44 2019
-@author: Sankalp99
-"""
 
 import cv2
 import numpy as np
