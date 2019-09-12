@@ -8,5 +8,5 @@ Python script to detect number of fingers in webcam feed
 
 ### To run File
 
-`$ npm install marked`
+`python finger_count.py`
 
