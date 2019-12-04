@@ -8,5 +8,7 @@ Python script to detect number of fingers in webcam feed
 
 ### To run File
 
-`python finger_count.py`
+```bash
+python finger_count.py
+```
 
